@@ -1,0 +1,4 @@
+Documentation python :
+	https://microbit-micropython.readthedocs.io/fr/latest/
+Python editor :
+	https://python.microbit.org/v/2
