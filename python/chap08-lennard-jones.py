@@ -16,7 +16,7 @@ import matplotlib.animation as animation
 #############################
 E0    = 5     # facteur d'échelle pour le profil d'énergie potentielle
 d     = 1     # distance caractéristique
-m     = 1   # masse du point matériel
+m     = 1     # masse du point matériel
 
 duration = 30  # durée de la simulation
 fps      = 25 # nombre d'images par seconde (pour l'animation)
